@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SHinduadua
-- 👀 I’m interested in custom rom
-- 🌱 I’m currently learning build rom
+- 👋 Hi, I’m @shnrts
+- 👀 I’m interested in custom rom and custom kernel
+- 🌱 I’m currently learning build rom and kernel
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on telegram : @shnrts
 
